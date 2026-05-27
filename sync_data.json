@@ -6,5 +6,12 @@
     "",
     "Зам4"
   ],
-  "triggers": []
+  "triggers": [
+    {
+      "text": "1",
+      "requireLeader": false,
+      "action": 2,
+      "added_at": 1779883143
+    }
+  ]
 }
